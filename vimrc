@@ -44,4 +44,5 @@ set autoindent
 " Plugins.
 call plug#begin('~/.vim/plugged')
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'w0rp/ale'
 call plug#end()
