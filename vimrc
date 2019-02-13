@@ -35,6 +35,7 @@ set wrapscan
 set showcmd
 set showmode
 set ruler
+set number
 
 " Global formatting.
 set formatoptions+=Mm " For Chinese characters autowrap.
